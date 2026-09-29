@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Desktop\C#Homework3\C#Homework3\bin\Debug\net10.0\C#Homework3.exe
+C:\Users\User\OneDrive\Desktop\C#Homework3\C#Homework3\bin\Debug\net10.0\C#Homework3.deps.json
+C:\Users\User\OneDrive\Desktop\C#Homework3\C#Homework3\bin\Debug\net10.0\C#Homework3.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\C#Homework3\C#Homework3\bin\Debug\net10.0\C#Homework3.dll
+C:\Users\User\OneDrive\Desktop\C#Homework3\C#Homework3\bin\Debug\net10.0\C#Homework3.pdb
+C:\Users\User\OneDrive\Desktop\C#Homework3\C#Homework3\obj\Debug\net10.0\C#Homework3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\C#Homework3\C#Homework3\obj\Debug\net10.0\C#Homework3.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\C#Homework3\C#Homework3\obj\Debug\net10.0\C#Homework3.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\C#Homework3\C#Homework3\obj\Debug\net10.0\C#Homework3.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\C#Homework3\C#Homework3\obj\Debug\net10.0\C#Homework3.dll
+C:\Users\User\OneDrive\Desktop\C#Homework3\C#Homework3\obj\Debug\net10.0\refint\C#Homework3.dll
+C:\Users\User\OneDrive\Desktop\C#Homework3\C#Homework3\obj\Debug\net10.0\C#Homework3.pdb
+C:\Users\User\OneDrive\Desktop\C#Homework3\C#Homework3\obj\Debug\net10.0\C#Homework3.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\C#Homework3\C#Homework3\obj\Debug\net10.0\ref\C#Homework3.dll
+C:\Users\User\OneDrive\Desktop\C#Homework3\C#Homework3\obj\Debug\net10.0\C#Homework3.sourcelink.json
